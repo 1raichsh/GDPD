@@ -1,1 +1,6 @@
 GDPD/* filter=lfs diff=lfs merge=lfs -text
+MobileApp/GDPD/* filter=lfs diff=lfs merge=lfs -text
+MobileApp/GDPD/Library/* filter=lfs diff=lfs merge=lfs -text
+MobileApp/GDPD/Library/MicroStrategyMobileSDK.framework/* filter=lfs diff=lfs merge=lfs -text
+/Users/1khurana/Desktop/MobileApp/GDPD/Library/MicroStrategyMobileSDK.framework/* filter=lfs diff=lfs merge=lfs -text
+MicroStrategyMobileSDK filter=lfs diff=lfs merge=lfs -text
