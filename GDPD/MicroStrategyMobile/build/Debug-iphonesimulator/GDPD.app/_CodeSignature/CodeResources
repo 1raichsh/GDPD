@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		HLQWWWCMBDpH0sQOVNuVTRWCKuc=
+		+4iX8GVhvk5JgUYlbvlR35kHqn4=
 		</data>
 		<key>Entitlements.plist</key>
 		<data>
@@ -6627,29 +6627,65 @@
 		<data>
 		NhTnF6NKMDfd/+BKdb2DjzzvZyY=
 		</data>
+		<key>IconFont/MSTRVectorIcon 2.plist</key>
+		<data>
+		l0L/EnCG5E4Ud+gmOEve+Dnjjhs=
+		</data>
 		<key>IconFont/MSTRVectorIcon.plist</key>
 		<data>
 		l0L/EnCG5E4Ud+gmOEve+Dnjjhs=
+		</data>
+		<key>IconFont/README 2.txt</key>
+		<data>
+		6VB67S+4Df65pFtbv6NbDIRmuCU=
 		</data>
 		<key>IconFont/README.txt</key>
 		<data>
 		6VB67S+4Df65pFtbv6NbDIRmuCU=
 		</data>
+		<key>IconFont/config 2.json</key>
+		<data>
+		9sXDM6YywgNhDuQAg8UCWmbmKT8=
+		</data>
 		<key>IconFont/config.json</key>
 		<data>
 		9sXDM6YywgNhDuQAg8UCWmbmKT8=
+		</data>
+		<key>IconFont/css/animation 2.css</key>
+		<data>
+		GBu8ieyXiYG/DvjHI5cQrls61qE=
 		</data>
 		<key>IconFont/css/animation.css</key>
 		<data>
 		GBu8ieyXiYG/DvjHI5cQrls61qE=
 		</data>
+		<key>IconFont/css/mobile_analytics_ios 2.css</key>
+		<data>
+		wPI3PEBazEcn/VBH+qJtGt+OKQs=
+		</data>
+		<key>IconFont/css/mobile_analytics_ios-codes 2.css</key>
+		<data>
+		7DCkuKMwjZXWy1Fxucuhpl6TjYs=
+		</data>
 		<key>IconFont/css/mobile_analytics_ios-codes.css</key>
 		<data>
 		7DCkuKMwjZXWy1Fxucuhpl6TjYs=
 		</data>
+		<key>IconFont/css/mobile_analytics_ios-embedded 2.css</key>
+		<data>
+		Npt3wpbUJ2O30Y0VWrd/ttzCm6c=
+		</data>
 		<key>IconFont/css/mobile_analytics_ios-embedded.css</key>
 		<data>
 		Npt3wpbUJ2O30Y0VWrd/ttzCm6c=
+		</data>
+		<key>IconFont/css/mobile_analytics_ios-ie7 2.css</key>
+		<data>
+		jeZ9107qA9iSzijz2tGHZTjTWd0=
+		</data>
+		<key>IconFont/css/mobile_analytics_ios-ie7-codes 2.css</key>
+		<data>
+		GKZj7dEPsQOU7+JeNTlw8LBO/Nc=
 		</data>
 		<key>IconFont/css/mobile_analytics_ios-ie7-codes.css</key>
 		<data>
@@ -6663,9 +6699,33 @@
 		<data>
 		wPI3PEBazEcn/VBH+qJtGt+OKQs=
 		</data>
+		<key>IconFont/demo 2.html</key>
+		<data>
+		mxrHKx6147qiCDeWXdt4isUNHRY=
+		</data>
 		<key>IconFont/demo.html</key>
 		<data>
 		mxrHKx6147qiCDeWXdt4isUNHRY=
+		</data>
+		<key>IconFont/font/mobile_analytics_ios 2.eot</key>
+		<data>
+		hdb6VYF9ETxHOU/Xfk7jc3Cx1hU=
+		</data>
+		<key>IconFont/font/mobile_analytics_ios 2.svg</key>
+		<data>
+		GiWvU/G72YrT5zTLt3QJgaj8sQo=
+		</data>
+		<key>IconFont/font/mobile_analytics_ios 2.ttf</key>
+		<data>
+		yw/OksXPFNe+I2s+XjdmwU0PQtU=
+		</data>
+		<key>IconFont/font/mobile_analytics_ios 2.woff</key>
+		<data>
+		7EdgWbR4aa9h9t7s4+Pze2Gbh9c=
+		</data>
+		<key>IconFont/font/mobile_analytics_ios 2.woff2</key>
+		<data>
+		d9YmLO8YcuF7P94le/GX7QqKT+U=
 		</data>
 		<key>IconFont/font/mobile_analytics_ios.eot</key>
 		<data>
@@ -6693,11 +6753,11 @@
 		</data>
 		<key>Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		dSfPocRKAhV0GIfmG+h0Gux7CMU=
+		bWD9uJIcja5vSR9ZeK3Tjrsv7Hw=
 		</data>
 		<key>Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		yhxYlIw5G2fc9P2YKvHxHEm3WV0=
+		YkaeO6Hh2AYcMb4v3VLOwAyHkYE=
 		</data>
 		<key>Launch Screen.storyboardc/Info.plist</key>
 		<data>
@@ -6705,11 +6765,11 @@
 		</data>
 		<key>Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		ds5nDRbhG75OJl4YGIkJXonwgt0=
+		2UmAWtsGLcouEB7p3FKaHouwMIQ=
 		</data>
 		<key>Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		evOO1NBwPBzYrjY+/gR3qSLj6ww=
+		fojwKvCFE9qblrZT0xMaHLJ89II=
 		</data>
 		<key>MSTR10_splash screen_iphone.png</key>
 		<data>
@@ -6725,11 +6785,11 @@
 		</data>
 		<key>MainWindow.nib/objects-13.0+.nib</key>
 		<data>
-		9UKONMqCapuUxTgtprWO0Lj7Tho=
+		z4FHQw9heh8oHD0bR+1UaqHdMsk=
 		</data>
 		<key>MainWindow.nib/runtime.nib</key>
 		<data>
-		rCEG2KUtk1xML07Be1DACOlr0pg=
+		lLdWLFwkrzJ7d0zBDG0ndG9pIC8=
 		</data>
 		<key>MicroStrategyMobileSDKResources.bundle/BarcodeReaderKeypadView-iPad.nib/objects-13.0+.nib</key>
 		<data>
@@ -7176,7 +7236,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hKJntYpm8NaEsQU4FtE4+QJWPdz1e8B/yiRuBRY6jwQ=
+			+j30I/7OGpDAtb0Uqx6NZ453I5xiErKZG6zopnbj+Ys=
 			</data>
 		</dict>
 		<key>Entitlements.plist</key>
@@ -18546,11 +18606,25 @@
 			sQUYCT34JR/nBpI3SIN29cFGn32BAIMIP4RgkOsPLx8=
 			</data>
 		</dict>
+		<key>IconFont/MSTRVectorIcon 2.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3TrSFfNDcRGpWCsOcDAHBn3rBeIajLil4kaPfsvsb3Y=
+			</data>
+		</dict>
 		<key>IconFont/MSTRVectorIcon.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			3TrSFfNDcRGpWCsOcDAHBn3rBeIajLil4kaPfsvsb3Y=
+			</data>
+		</dict>
+		<key>IconFont/README 2.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oFvn24ACkGV1w1SqmLTqVRxgejfefuzAhrQUlg9idQY=
 			</data>
 		</dict>
 		<key>IconFont/README.txt</key>
@@ -18560,11 +18634,25 @@
 			oFvn24ACkGV1w1SqmLTqVRxgejfefuzAhrQUlg9idQY=
 			</data>
 		</dict>
+		<key>IconFont/config 2.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k7NOhSsneajwjxFMgWDWXaKGYYrKmTg5GMjzFOeWiIQ=
+			</data>
+		</dict>
 		<key>IconFont/config.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			k7NOhSsneajwjxFMgWDWXaKGYYrKmTg5GMjzFOeWiIQ=
+			</data>
+		</dict>
+		<key>IconFont/css/animation 2.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xSIc/jfm8LARNGFk57M3jBBoB9wNQvwIh0QKs2wJ4gU=
 			</data>
 		</dict>
 		<key>IconFont/css/animation.css</key>
@@ -18574,6 +18662,20 @@
 			xSIc/jfm8LARNGFk57M3jBBoB9wNQvwIh0QKs2wJ4gU=
 			</data>
 		</dict>
+		<key>IconFont/css/mobile_analytics_ios 2.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7W6eL6BBFlnqlRhsDgxS6liqDfirYg0eqMr9AR5kgKc=
+			</data>
+		</dict>
+		<key>IconFont/css/mobile_analytics_ios-codes 2.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PRPQKNWD92cKG1XyOZwQuNx61nTGXn4xsTqrGXLKDPs=
+			</data>
+		</dict>
 		<key>IconFont/css/mobile_analytics_ios-codes.css</key>
 		<dict>
 			<key>hash2</key>
@@ -18581,11 +18683,32 @@
 			PRPQKNWD92cKG1XyOZwQuNx61nTGXn4xsTqrGXLKDPs=
 			</data>
 		</dict>
+		<key>IconFont/css/mobile_analytics_ios-embedded 2.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OJg52+DyYKd3TJOLCo0vgTfGHwdSB7+TpkAuPgrVhqQ=
+			</data>
+		</dict>
 		<key>IconFont/css/mobile_analytics_ios-embedded.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			OJg52+DyYKd3TJOLCo0vgTfGHwdSB7+TpkAuPgrVhqQ=
+			</data>
+		</dict>
+		<key>IconFont/css/mobile_analytics_ios-ie7 2.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cUOfb5Hq1kBv/iYoxnoVJuZmXH30b0DNBl83qLxVkLQ=
+			</data>
+		</dict>
+		<key>IconFont/css/mobile_analytics_ios-ie7-codes 2.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z55r4DQLKdgFhNYnKXhZF/cN0UoubJKYWQ4wWSnN3QI=
 			</data>
 		</dict>
 		<key>IconFont/css/mobile_analytics_ios-ie7-codes.css</key>
@@ -18609,11 +18732,53 @@
 			7W6eL6BBFlnqlRhsDgxS6liqDfirYg0eqMr9AR5kgKc=
 			</data>
 		</dict>
+		<key>IconFont/demo 2.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lYavTiteQniqXMU7pzg1IR2yNOy9dmIYINisnLDxQaw=
+			</data>
+		</dict>
 		<key>IconFont/demo.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			lYavTiteQniqXMU7pzg1IR2yNOy9dmIYINisnLDxQaw=
+			</data>
+		</dict>
+		<key>IconFont/font/mobile_analytics_ios 2.eot</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j/0ifrJm832D8az0tybAb14XRA/1WUd1YPwUx7Vh4XI=
+			</data>
+		</dict>
+		<key>IconFont/font/mobile_analytics_ios 2.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sxCl8N4ljApb/1ZtEEco+CXL+2H5WxCmOsxnYVYCBdM=
+			</data>
+		</dict>
+		<key>IconFont/font/mobile_analytics_ios 2.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DqZWkdy5C9knpwZ2z+udXLqCv55TSAgLKN1qJFezWRs=
+			</data>
+		</dict>
+		<key>IconFont/font/mobile_analytics_ios 2.woff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xH81tiEk6eviB5pLGl5NWyPjxTshokXsIlW7v+N5waM=
+			</data>
+		</dict>
+		<key>IconFont/font/mobile_analytics_ios 2.woff2</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JvF2j4OzYJoUauqcgXzOf7neKfgQEzqIDGwjslgJJgY=
 			</data>
 		</dict>
 		<key>IconFont/font/mobile_analytics_ios.eot</key>
@@ -18655,14 +18820,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i+WX8NCjrqc2dqnsnEenfrnQ0ym0gjgtYDLRQpfR8hU=
+			aY7sDMPjYe2lnVPteo7RMtvcW1Ul+DAjmHWvb68QQqg=
 			</data>
 		</dict>
 		<key>Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EfTAA0OBx9bSqLgqLHCKZ61Lyb8kmRcL2DKMv9rGaOg=
+			A1CksPQDcltEvC8CI74810k3tluqtyqHVyj14zCUIgM=
 			</data>
 		</dict>
 		<key>Launch Screen.storyboardc/Info.plist</key>
@@ -18676,14 +18841,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GHqkAjRWcAcJ46aO9fima6Zncf0yJjVl+lb9UNKdE2Y=
+			DNTu6FfqzpMBwXgp5vtkbH8q9d9ddiw5hUxUplQp6GI=
 			</data>
 		</dict>
 		<key>Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i8NFViP69eWu+/dpAgGsGCjmrOr2dzuFnCIO15ym50E=
+			tr0KD/4CQuwCWyj426/7Qv0wbxuoqxJQLjhIQZcmMkE=
 			</data>
 		</dict>
 		<key>MSTR10_splash screen_iphone.png</key>
@@ -18711,14 +18876,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hY1rkY2Vv+zqONShWcXc3JfeZosSvszw+k9RaDABRsI=
+			TMxH9o/W9FymtKhPDgqvyPEtjMiJhslMgK02Zp1o9Bg=
 			</data>
 		</dict>
 		<key>MainWindow.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mvzyGLBJ5KkWROeiyZ1Wk9sYuJiGyXbd2ERJP3zcDUs=
+			k7ohQ7O1uDgALxl3LYoqDvU9xrH3r04k713n+hiKXF4=
 			</data>
 		</dict>
 		<key>MicroStrategyMobileSDKResources.bundle/BarcodeReaderKeypadView-iPad.nib/objects-13.0+.nib</key>
