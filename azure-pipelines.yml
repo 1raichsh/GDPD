@@ -10,9 +10,10 @@ pool:
   vmImage: 'macos-latest'
 
 steps:
+- checkout: self
+  lfs: true
 - task: Xcode@5
   inputs:
-    lsf: 'true'
     actions: 'build'
     scheme: 'MicroStrategyMobileIPhone'
     sdk: 'iphoneos'
