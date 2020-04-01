@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:236eec8ce6002c62508286c1dc112c5d44fb08b623df73d2a89e019dc1a5633d
-size 85
+/GDPD/Library/MicroStrategyMobileSDK.framework/* filter=lfs diff=lfs merge=lfs -text

@@ -645,7 +645,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../Library/GoogleAnalyticsServicesiOS";
 				OTHER_CODE_SIGN_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpd;
+				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpduat;
 				PRODUCT_NAME = "GDPD-UAT";
 				PROVISIONING_PROFILE = "f77ab671-2305-42c9-b021-ca0ec8d6f79b";
 				PROVISIONING_PROFILE_SPECIFIER = "MicroStrategy Mobile";
@@ -685,7 +685,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../Library/GoogleAnalyticsServicesiOS";
 				OTHER_CODE_SIGN_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpd;
+				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpduat;
 				PRODUCT_NAME = "GDPD-UAT";
 				PROVISIONING_PROFILE = "7f6078a9-3627-4622-8577-2a52cb6b7dfa";
 				PROVISIONING_PROFILE_SPECIFIER = MicroStrategyIPhone;
@@ -726,7 +726,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../Library/GoogleAnalyticsServicesiOS";
 				OTHER_CODE_SIGN_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpd;
+				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpduat;
 				PRODUCT_NAME = "GDPD-UAT";
 				PROVISIONING_PROFILE = "8e72b6fd-afca-4ecd-a8db-49602626a2ec";
 				PROVISIONING_PROFILE_SPECIFIER = iPhonePush;
