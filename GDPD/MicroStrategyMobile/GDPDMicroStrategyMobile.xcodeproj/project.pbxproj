@@ -110,7 +110,7 @@
 		8E8C1D2C1BA779BB001C5CB7 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		8E8C1D301BA779F6001C5CB7 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		8E8C1D321BA77A1B001C5CB7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
-		8E8C94111BCD119D00D8D99A /* GDPD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GDPD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E8C94111BCD119D00D8D99A /* GDPD-UAT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GDPD-UAT.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EC6C9161BA3CC27007713F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EC6C9171BA3CC27007713F1 /* MicroStrategyMobileSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MicroStrategyMobileSDK.h; sourceTree = "<group>"; };
 		8EC6C95C1BA3CD27007713F1 /* MicroStrategyMobileSDK_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MicroStrategyMobileSDK_Prefix.pch; sourceTree = "<group>"; };
@@ -295,7 +295,7 @@
 		8EA8B1BD1B90EEA10063204B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8E8C94111BCD119D00D8D99A /* GDPD.app */,
+				8E8C94111BCD119D00D8D99A /* GDPD-UAT.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -369,7 +369,7 @@
 			);
 			name = MicroStrategyMobileIPhone;
 			productName = MicroStrategyMobile;
-			productReference = 8E8C94111BCD119D00D8D99A /* GDPD.app */;
+			productReference = 8E8C94111BCD119D00D8D99A /* GDPD-UAT.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -646,7 +646,7 @@
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../Library/GoogleAnalyticsServicesiOS";
 				OTHER_CODE_SIGN_FLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpd;
-				PRODUCT_NAME = GDPD;
+				PRODUCT_NAME = "GDPD-UAT";
 				PROVISIONING_PROFILE = "f77ab671-2305-42c9-b021-ca0ec8d6f79b";
 				PROVISIONING_PROFILE_SPECIFIER = "MicroStrategy Mobile";
 				STRIP_INSTALLED_PRODUCT = YES;
@@ -686,7 +686,7 @@
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../Library/GoogleAnalyticsServicesiOS";
 				OTHER_CODE_SIGN_FLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpd;
-				PRODUCT_NAME = GDPD;
+				PRODUCT_NAME = "GDPD-UAT";
 				PROVISIONING_PROFILE = "7f6078a9-3627-4622-8577-2a52cb6b7dfa";
 				PROVISIONING_PROFILE_SPECIFIER = MicroStrategyIPhone;
 				SYMROOT = "${PROJECT_DIR}/build";
@@ -727,7 +727,7 @@
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../Library/GoogleAnalyticsServicesiOS";
 				OTHER_CODE_SIGN_FLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.faurecia.gdpd;
-				PRODUCT_NAME = GDPD;
+				PRODUCT_NAME = "GDPD-UAT";
 				PROVISIONING_PROFILE = "8e72b6fd-afca-4ecd-a8db-49602626a2ec";
 				PROVISIONING_PROFILE_SPECIFIER = iPhonePush;
 				STRIP_INSTALLED_PRODUCT = YES;
